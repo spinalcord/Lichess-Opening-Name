@@ -1,5 +1,7 @@
 # Lichess-Opening-Name
 An extension for Google Chrome. This extension displays you the current opening Name on lichess, durring the game.
+Make sure you have developer mode enabled in google chrome.
+
 
 Please leave me a Github-Star :)
 
